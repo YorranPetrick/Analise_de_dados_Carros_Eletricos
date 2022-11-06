@@ -6,3 +6,5 @@ Pontos Verificados :
 - Perda de eficiência em Rodovias a -10° graus.
 - Perda de eficiência em Rodovias a 23° graus.
 - Menor variação de eficiência a -10° graus em comparação a 23° graus.
+
+Dados baixados do kaggle.com
